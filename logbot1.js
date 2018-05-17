@@ -207,7 +207,7 @@ function locateLogs()
 }
 
 client.on('ready', () => {
-  client.user.setActivity('YouTube/YoshiMemed', { type: 'WATCHING' });
+  client.user.setActivity('niggers burn', { type: 'WATCHING' });
 })
 
 locateLogs();
